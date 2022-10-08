@@ -1,4 +1,4 @@
-👋 Hi! My name is Jaehyeong and I'm a high school student from Toronto.
+👋 Hi! My name is Jaden and I'm a high school student from Toronto.
 
 
 I'm a very outgoing and curious person, who's passionate about full-stack challenges 🖥️, dogs 🐕, and football ⚽.
