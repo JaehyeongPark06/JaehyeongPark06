@@ -1,4 +1,12 @@
-Hi!👋 I'm Jaehyeong (Jaden). I'm a student at Earl Haig Secondary School interested in web development.
+👋 Hi! My name is Jaehyeong and I'm a high school student from Toronto.
+
+
+I'm a very outgoing and curious person, who's passionate about full-stack challenges 🖥️, dogs 🐕, and football ⚽.
+
+In my free time, I teach others 👨‍🏫, work on my latest projects 👨‍💻, run my non-profits 💰, or do anything else I'm interested in.
+
+Feel free to contact me through my socials. I'd love to talk! 💬
+
 
 <!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
