@@ -1,7 +1,5 @@
-👋 Hi! My name is Jaden and I'm a high school student from Toronto.
-
-
-I'm a very outgoing and curious person, who's passionate about full-stack challenges 🖥️, dogs 🐕, and football ⚽.
+# Hi! I'm Jaden 👋
+I'm a high school student from Toronto who's passionate about full-stack challenges 🖥️, dogs 🐕, and football ⚽.
 
 You can find me working on my latest projects 👨‍💻, teaching 👨‍🏫, running my non-profits 💰, or doing anything else I'm interested in.
 
