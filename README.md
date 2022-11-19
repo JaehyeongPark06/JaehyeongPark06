@@ -1,7 +1,7 @@
 ## Hi! I'm Jaden 👋
 I'm a high school student from Toronto who enjoys math 📝, dogs 🐕, and watching football ⚽.
 
-You can find me working on my latest projects 👨‍💻, teaching 👨‍🏫, play chess ♟️, or doing anything else I'm interested in.
+You can find me working on my latest projects 👨‍💻, teaching 👨‍🏫, playing chess ♟️, or doing anything else I'm interested in.
 
 Feel free to contact me through my socials. I'd love to talk! 💬
 
