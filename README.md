@@ -6,8 +6,8 @@ You can find me working on my latest projects 👨‍💻, teaching 👨‍🏫,
 Feel free to contact me through my socials. I'd love to talk! 💬
 
 📫 You can reach me through my...
-[Linkedin](https://www.linkedin.com/in/jaehyeongpark)
-[Email](mailto:jaehyeongpark06@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/jaehyeongpark)
+- [Email](mailto:jaehyeongpark06@gmail.com)
 
 <!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
