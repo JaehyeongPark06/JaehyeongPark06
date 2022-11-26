@@ -29,6 +29,8 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 <img align="left" src="./figma.png" width="28" height="28">
 <img align="left" src="./vercel.png" width="28" height="28">
 <img align="left" src="./netlify.png" width="28" height="28">
+<img align="left" src="./canva.png" width="28" height="28">
+<img align="left" src="./tinkercad.png" width="28" height="28">
 </br>
 
 
