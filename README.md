@@ -6,6 +6,7 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 
 ## Skills
 ##### Languages
+<img align="left" src="./typescript.png" width="28" height="28">
 <img align="left" src="./javascript.png" width="28" height="28">
 <img align="left" src="./python.png" width="28" height="28">
 <img align="left" src="./c++.png" width="28" height="28">
@@ -17,7 +18,7 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 <img align="left" src="./react.png" width="28" height="28">
 <img align="left" src="./git.png" width="28" height="28">
 <img align="left" src="./tailwind.png" width="28" height="28"></br>
-
+<img align="left" src="./styledcomponents.png" width="28" height="28">
 
 
 
