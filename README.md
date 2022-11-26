@@ -36,11 +36,11 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 
 
 ## Socials 📫 
-[Linkedin](https://www.linkedin.com/in/jaehyeongpark)
+- [Linkedin](https://www.linkedin.com/in/jaehyeongpark)
 
-[Email](mailto:jaehyeongpark06@gmail.com)
+- [Email](mailto:jaehyeongpark06@gmail.com)
 
-[Personal Site](https://jaehyeongpark.social)
+- [Personal Site](https://jaehyeongpark.social)
 
 
 ## Hobbies/Interests
