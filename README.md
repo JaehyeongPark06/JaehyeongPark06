@@ -12,13 +12,17 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 <img align="left" src="./c++.png" width="28" height="28">
 <img align="left" src="./html.png" width="28" height="28">
 <img align="left" src="./css.png" width="28" height="28">
-<img align="left" src="./latex.png" width="28" height="28"><br/>
+<img align="left" src="./latex.png" width="28" height="28">
+
+<br/>
 
 #####  Tools/Frameworks/Libraries
 <img align="left" src="./react.png" width="28" height="28">
 <img align="left" src="./git.png" width="28" height="28">
-<img align="left" src="./tailwind.png" width="28" height="28"></br>
+<img align="left" src="./tailwind.png" width="28" height="28">
 <img align="left" src="./styledcomponents.png" width="28" height="28">
+
+</br>
 
 
 
