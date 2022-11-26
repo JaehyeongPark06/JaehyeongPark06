@@ -44,11 +44,9 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 
 
 ## Hobbies/Interests
-Watching football ⚽ 
-
-Chess ♟️
-
-Math 📝
+- Watching football ⚽ 
+- Chess ♟️
+- Math 📝
 
 <!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
