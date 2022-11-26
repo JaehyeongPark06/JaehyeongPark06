@@ -18,6 +18,7 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 
 #####  Tools/Frameworks/Libraries
 <img align="left" src="./react.png" width="28" height="28">
+<img align="left" src="./vite.png" width="28" height="28">
 <img align="left" src="./git.png" width="28" height="28">
 <img align="left" src="./tailwind.png" width="28" height="28">
 <img align="left" src="./styledcomponents.png" width="28" height="28">
