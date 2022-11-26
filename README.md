@@ -33,7 +33,10 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 <img align="left" src="./tinkercad.png" width="28" height="28">
 </br>
 
-
+## Hobbies/Interests
+- Watching football ⚽ 
+- Chess ♟️
+- Math 📝
 
 ## Socials 📫 
 - [Linkedin](https://www.linkedin.com/in/jaehyeongpark)
@@ -42,11 +45,6 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 
 - [Personal Site](https://jaehyeongpark.social)
 
-
-## Hobbies/Interests
-- Watching football ⚽ 
-- Chess ♟️
-- Math 📝
 
 <!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
