@@ -5,8 +5,8 @@ You can find me working on my latest projects 👨‍💻, teaching 👨‍🏫,
 Feel free reach out to me through my socials. I'd love to talk! 🤝
 
 ## Skills
-##### Languages
-<img align="left" src="./typescript.png" width="29" height="29">
+#### Languages
+<img align="left" src="./typescript.png" width="28" height="28">
 <img align="left" src="./python.png" width="28" height="28">
 <img align="left" src="./c++.png" width="28" height="28">
 <img align="left" src="./javascript.png" width="28" height="28">
@@ -16,7 +16,7 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 
 <br/>
 
-#####  Frameworks/Libraries
+### Frameworks/Libraries
 <img align="left" src="./react.png" width="28" height="28">
 <img align="left" src="./vite.png" width="28" height="28">
 <img align="left" src="./tailwind.png" width="28" height="28">
