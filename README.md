@@ -1,4 +1,4 @@
-# Hi! I'm Jaden 👋
+<h1 align="center">Hi 👋, I'm Jaden.</h1>
 I'm a high school student from Toronto who likes math 📝, dogs 🐕, and watching football ⚽.
 You can find me working on my latest projects 👨‍💻, teaching 👨‍🏫, playing chess ♟️, or doing anything else I'm interested in.
 
