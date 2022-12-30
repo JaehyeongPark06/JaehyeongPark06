@@ -7,7 +7,6 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 #### Languages
 <img align="left" src="./typescript.png" width="29" height="29">
 <img align="left" src="./python.png" width="28" height="28">
-<img align="left" src="./c++.png" width="28" height="28">
 <img align="left" src="./javascript.png" width="28" height="28">
 <img align="left" src="./html.png" width="28" height="28">
 <img align="left" src="./css.png" width="28" height="28">
