@@ -10,7 +10,6 @@ Feel free reach out to me through my socials. I'd love to talk! 🤝
 <img align="left" src="./javascript.png" width="28" height="28">
 <img align="left" src="./html.png" width="28" height="28">
 <img align="left" src="./css.png" width="28" height="28">
-<img align="left" src="./latex.png" width="28" height="28">
 
 <br/>
 
