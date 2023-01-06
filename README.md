@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaden.</h1>
+
 ## Skills
+
 #### Languages
 <img align="left" src="./python.png" width="28" height="28">
 <img align="left" src="./javascript.png" width="28" height="28">
