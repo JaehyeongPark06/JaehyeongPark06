@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaden.</h1>
+## About Me
+I'm a high school student from Toronto working with software development. The majority of projects can be found on my profile.
+
+Most of my recent projects are related to the web, but I like to dabble with anything related to programming.
+
+You can find me teaching others, working on my latest projects, playing chess, or doing anything else I'm interested in.
+
+Feel free to connect with me through any of the avenues below. I'd love to talk!
 
 ## Skills
 
