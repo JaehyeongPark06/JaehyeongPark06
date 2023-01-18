@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jaden.</h1>
+<h1 align="center">Hi there, I'm Jaden! 👋</h1>
 
-## About Me
+I'm a high school student in Toronto working with software development.
 
-I'm a high school student from Toronto working with software development. The majority of projects can be found on my profile.
+If you're here, you might want to:
+- [Visit my website, jaehyeongparks.social](https://jaehyeongpark.social)
+- - [Getting in touch with me](mailto:jaehyeongpark06@gmail.com)
+<!-- - [Viewing my resume](https://evanzheng.com/resume.pdf) -->
+- [Seeing my LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 
+- ... or checking out some of the projects 👨‍💻 I've made below.
 
-Most of my recent projects are related to the web, but I like to dabble with anything related to programming.
 
-You can find me teaching others, working on my latest projects, playing chess, or doing anything else I'm interested in.
-
-Feel free to connect with me through any of the avenues below. I'd love to talk!
-
+<!--
 ## Skills
 
 #### Languages
@@ -38,7 +39,9 @@ Feel free to connect with me through any of the avenues below. I'd love to talk!
 <img align="left" src="./canva.png" width="28" height="28">
 <img align="left" src="./tinkercad.png" width="28" height="28">
 </br>
+-->
 
+<!--
 ## Hobbies/Interests
 - Watching football ⚽ 
 - Chess ♟️
@@ -52,7 +55,6 @@ Feel free to connect with me through any of the avenues below. I'd love to talk!
 - [Personal Site](https://jaehyeongpark.social)
 
 
-<!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
