@@ -5,7 +5,7 @@ I'm a high school student in Toronto working with software development.
 If you're here, you might want to:
 - [Visit my website, jaehyeongpark.social](https://jaehyeongpark.social) 🏠
 
-- [Getting in touch with me](mailto:jaehyeongpark06@gmail.com) ✉️ 
+- [Getting in touch with me](mailto:jaehyeongpark06@gmail.com) 📫
 
 <!-- - [Viewing my resume](https://evanzheng.com/resume.pdf) -->
 
