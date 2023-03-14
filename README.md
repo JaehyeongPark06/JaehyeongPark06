@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm Jaden! 👋</h1>
+### Hi there👋
 
-I'm a high school student in Toronto working with software development.
+I'm Jaden, a high school student from Toronto building things I find interesting and helpful. 
 
 If you're here, you might want to:
 - [Visit my website, jaehyeongpark.social](https://jaehyeongpark.social) 🏠
 
 - [Getting in touch with me](mailto:jaehyeongpark06@gmail.com) 📫
 
-<!-- - [Viewing my resume](https://evanzheng.com/resume.pdf) -->
+<!-- - [Viewing my resume](resume.pdf) -->
 
 - [Seeing my LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 🌐
 
