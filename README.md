@@ -5,13 +5,13 @@ I'm Jaden, a high school student from Toronto building things I find interesting
 If you're here, you might want to:
 - [Visit my website, jaehyeongpark.social](https://jaehyeongpark.social) 🏠
 
-- [Getting in touch with me](mailto:jaehyeongpark06@gmail.com) 📫
+- [Get in touch with me](mailto:jaehyeongpark06@gmail.com) 📫
 
 <!-- - [Viewing my resume](resume.pdf) -->
 
-- [Seeing my LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 🌐
+- [See my LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 🌐
 
-- ... or checking out some of the projects 👨‍💻 I've made below.
+- ... or check out some of the projects 👨‍💻 I've made below.
 
 
 <!--
