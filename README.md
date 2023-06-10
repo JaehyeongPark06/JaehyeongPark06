@@ -11,7 +11,7 @@ If you're here, you might want to:
 
 - See my [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 🌐
 
-- ... or check out some of the projects 👨‍💻 I've made below.
+- ... or check out some cool stuff 👨‍💻 I've made below.
 
 
 <!--
