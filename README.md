@@ -3,7 +3,7 @@
 I'm Jaden, a high school student from Toronto building things I find interesting and helpful. 
 
 If you're here, you might want to:
-- Visit my website, [jaehyeongpark.social](https://jaehyeongpark.social) 🏠
+- Visit my website, [jadenpark.ca](https://jadenpark.ca) 🏠
 
 - Get in touch with [me](mailto:jaehyeongpark06@gmail.com) 📫
 
