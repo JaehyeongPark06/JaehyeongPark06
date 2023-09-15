@@ -1,6 +1,6 @@
 ## Hi there👋,
 
-I'm Jaden, a high school student from Toronto building things I find interesting and helpful. 
+I'm Jaden, a student from Toronto building things I find interesting and helpful. 
 
 If you're here, you might want to:
 - Visit my website, [jadenpark.ca](https://jadenpark.ca) 🏠
