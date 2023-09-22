@@ -1,4 +1,4 @@
-## Hi there 👋,
+Hi there 👋,
 
 I'm Jaden, a student from Toronto building things I find interesting and helpful. 
 
