@@ -1,4 +1,4 @@
-Hi there 👋,
+<h1>Hi there 👋,</h1>
 
 I'm Jaden, a student from Toronto building things I find interesting and helpful. 
 
