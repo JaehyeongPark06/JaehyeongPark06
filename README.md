@@ -3,15 +3,15 @@
 #### Uoft Industrial Engineering '28. 
 
 If you're here, you might want to:
-- Visit my website, [jadenpark.ca](https://jadenpark.ca) 🏠
+- visit my website, [jadenpark.ca](https://jadenpark.ca) <!--🏠-->
 
-- Get in touch with [me](mailto:jaehyeongpark06@gmail.com) 📫
+- get in touch with [me](mailto:jaehyeongpark06@gmail.com) <!--📫-->
 
 <!-- - [Viewing my resume](resume.pdf) -->
 
-- See my [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 🌐
+- see my [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) <!--🌐-->
 
-- ... or check out some cool stuff 👨‍💻 I've made below.
+- ... or check out some stuff <!--👨‍💻--> I've made below.
 
 
 <!--
