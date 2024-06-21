@@ -1,6 +1,6 @@
-<!--## Hi there 👋,-->
+#### Hi👋
 
-#### UofT Industrial Engineering '28. 
+I'm Jaden, an Industrial Engineering student at the University of Toronto
 
 If you're here, you might want to:
 - visit my website, [jadenpark.ca](https://jadenpark.ca) <!--🏠-->
