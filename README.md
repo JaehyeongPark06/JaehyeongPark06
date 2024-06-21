@@ -1,6 +1,6 @@
 <!--## Hi there 👋,-->
 
-Uoft Industrial Engineering '28. 
+#### Uoft Industrial Engineering '28. 
 
 If you're here, you might want to:
 - Visit my website, [jadenpark.ca](https://jadenpark.ca) 🏠
