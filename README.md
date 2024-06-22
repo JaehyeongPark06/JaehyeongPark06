@@ -1,4 +1,4 @@
-## Hi👋
+## Hi 👋
 
 I'm Jaden, an Industrial Engineering student at the University of Toronto
 
