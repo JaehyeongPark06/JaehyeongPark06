@@ -10,8 +10,6 @@ Here are some random links which may be of interest.
 
 - [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 
 
-- ... or check out some stuff <!--👨‍💻--> I've made below.
-
 
 <!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
