@@ -1,15 +1,14 @@
-## Hi 👋
+## 👋 Hi, I'm Jaden.
 
-I'm Jaden, an Industrial Engineering student at the University of Toronto
+I'm an Industrial Engineering student at the University of Toronto. 
 
-If you're here, you might want to:
-- visit my website, [jadenpark.ca](https://jadenpark.ca) <!--🏠-->
+Here are some random links which may be of interest.
 
-- get in touch with [me](mailto:jaehyeongpark06@gmail.com) <!--📫-->
+- [Personal Site](https://jadenpark.ca) 
 
-<!-- - [Viewing my resume](resume.pdf) -->
+- [Email](mailto:jaehyeongpark06@gmail.com) 
 
-- see my [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) <!--🌐-->
+- [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 
 
 - ... or check out some stuff <!--👨‍💻--> I've made below.
 
