@@ -2,7 +2,7 @@
 
 I'm an Industrial Engineering student at the University of Toronto. 
 
-Here are some random links which may be of interest.
+If you're here, you may be interested in the following:
 
 - [Personal Site](https://jadenpark.ca) 
 
