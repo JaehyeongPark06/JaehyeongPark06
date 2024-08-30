@@ -6,7 +6,7 @@ If you're here, you may be interested in the following:
 
 - [Personal Site](https://jadenpark.ca) 
 
-- [Email](mailto:jaehyeongpark06@gmail.com) 
+- [Email](mailto:jaehyeong.park@mail.utoronto.ca) 
 
 - [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 
 
