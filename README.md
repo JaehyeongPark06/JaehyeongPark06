@@ -1,15 +1,6 @@
-## 👋 Hi, I'm Jaden.
+Email preffered
 
-I'm an Industrial Engineering student at the University of Toronto. 
-
-If you're here, you may be interested in the following:
-
-- [Personal Site](https://jadenpark.ca) 
-
-- [Email](mailto:jaehyeong.park@mail.utoronto.ca) 
-
-- [LinkedIn](https://www.linkedin.com/in/jaehyeongpark/) 
-
+jaehyeong[dot]park[at]outlook[dot]com
 
 <!--
 **JaehyeongPark06/JaehyeongPark06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
